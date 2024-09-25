@@ -1,0 +1,134 @@
+main{
+  margin-bottom: 0;
+}
+
+#page{
+  width: 1120px;
+  height: auto;
+  margin: 88px 80px;
+  box-sizing: border-box;
+  
+}
+
+h3{
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: #E1624F;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+h2{
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+  color: black;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+img{
+  margin-top: 40px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+#descricao{
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+
+hr{
+
+  height: 1px;
+  margin: 40px 0 40px;
+  background-color: #d9d9d9;
+  
+}
+
+#description{
+  margin-top: 64px;
+}
+
+p{
+  
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  text-align:left;
+  margin-top: 0px;
+}
+
+#listaOrd{
+  margin-right: 60px;
+}
+
+#temp1{
+  margin-top: 64px;
+  margin-bottom: 20px;
+}
+
+#minisecao{
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: black;
+}
+
+#temp2{
+  margin-top: 48px;
+  margin-bottom: 20px;
+}
+
+#azul{
+  font-weight: bolder;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: #0C51A7;
+}
+
+#rosa{
+  font-weight: bolder;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: #E5245E;
+}
+#roxo{
+  font-weight: bolder;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: #591B98;
+}
+#laranja{
+  font-weight: bolder;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: #E95E10;
+}
+
+footer{
+  margin-top: 40px;
+  padding-bottom: 48px;
+  width: 1120px;
+  margin: 20px 80px 0 80px;
+}
+#footer{
+  color: black;
+  text-align:center;
+}
+
+span{
+ 
+  color: black;
+  text-align:center;
+  display: block;
+}
+
+footer img{
+  vertical-align:auto;
+  
+}
